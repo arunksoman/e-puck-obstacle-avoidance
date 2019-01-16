@@ -37,7 +37,7 @@ prox7.enable(timeStep)
 leftMotor.setPosition(float('inf'))
 rightMotor.setPosition(float('inf'))
 
-# Set ideal motor velocity.
+# Set ideal motor velocity .
 initialVelocity = 0.7 * maxMotorVelocity
 
 # Set the initial velocity of the left and right wheel motors.
