@@ -6,7 +6,7 @@ robot = Robot()
 # Get simulation step length.
 timeStep = int(robot.getBasicTimeStep())
 
-# Constants of the Thymio II motors and distance sensors.
+# Constants of the e-puck motors and distance sensors.
 maxMotorVelocity = 4.2
 distanceSensorCalibrationConstant = 360
 
